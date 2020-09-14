@@ -11,6 +11,7 @@ public class SpringBootWithGitHub2Application {
 		ConfigurableApplicationContext run = SpringApplication.run(SpringBootWithGitHub2Application.class, args);
 		run.close();
 		System.out.println("Hello world..!!");
+int i=10;
 
 	}
 
